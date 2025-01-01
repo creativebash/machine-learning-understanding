@@ -1,0 +1,79 @@
+Machine-Learning-Understanding/
+├── README.md                  # General introduction to the repo
+├── LICENSE                    # License file
+├── CONTRIBUTING.md            # Guidelines for contributors
+├── requirements.txt           # Dependencies for the entire repo
+├── 01-Supervised-Learning/    # Supervised learning
+│   ├── README.md              # Intro to supervised learning
+│   ├── notebooks/             # Tutorials (e.g., linear regression, SVM)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 02-Unsupervised-Learning/  # Unsupervised learning
+│   ├── README.md              # Intro to unsupervised learning
+│   ├── notebooks/             # Tutorials (e.g., k-means, PCA)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 03-Deep-Learning/          # Deep learning
+│   ├── README.md              # Intro to deep learning
+│   ├── notebooks/             # Tutorials (e.g., CNNs, RNNs, GANs)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 04-Ensemble-Learning/      # Ensemble learning
+│   ├── README.md              # Intro to ensemble learning
+│   ├── notebooks/             # Tutorials (e.g., Random Forest, XGBoost)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 05-Reinforcement-Learning/ # Reinforcement learning
+│   ├── README.md              # Intro to reinforcement learning
+│   ├── notebooks/             # Tutorials (e.g., Q-Learning, DQN)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 06-Natural-Language-Processing/ # NLP
+│   ├── README.md              # Intro to NLP
+│   ├── notebooks/             # Tutorials (e.g., BERT, GPT, transformers)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 07-Computer-Vision/        # Computer vision
+│   ├── README.md              # Intro to computer vision
+│   ├── notebooks/             # Tutorials (e.g., object detection, YOLO)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 08-Time-Series-Analysis/   # Time series
+│   ├── README.md              # Intro to time series
+│   ├── notebooks/             # Tutorials (e.g., ARIMA, LSTMs, Prophet)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 09-Generative-Models/      # Generative models
+│   ├── README.md              # Intro to generative models
+│   ├── notebooks/             # Tutorials (e.g., GANs, VAEs, diffusion models)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 10-Explainable-AI/         # Explainable AI (XAI)
+│   ├── README.md              # Intro to XAI
+│   ├── notebooks/             # Tutorials (e.g., SHAP, LIME)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 11-Transfer-Learning/      # Transfer learning
+│   ├── README.md              # Intro to transfer learning
+│   ├── notebooks/             # Tutorials (e.g., fine-tuning, pre-trained models)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 12-Graph-Neural-Networks/  # Graph neural networks (GNNs)
+│   ├── README.md              # Intro to GNNs
+│   ├── notebooks/             # Tutorials (e.g., GCN, GAT)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 13-AutoML/                 # Automated machine learning
+│   ├── README.md              # Intro to AutoML
+│   ├── notebooks/             # Tutorials (e.g., H2O, TPOT, AutoKeras)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+├── 14-Ethics-in-AI/           # Ethics in AI
+│   ├── README.md              # Intro to AI ethics
+│   ├── notebooks/             # Tutorials (e.g., bias, fairness, privacy)
+│   ├── scripts/               # Python scripts for algorithms
+│   └── data/                  # Datasets
+└── docs/                      # General documentation
+    ├── FAQ.md                 # Frequently asked questions
+    ├── glossary.md            # Glossary of terms
+    └── resources.md           # Additional resources and references

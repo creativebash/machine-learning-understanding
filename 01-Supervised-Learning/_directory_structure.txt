@@ -1,0 +1,29 @@
+01-Supervised-Learning/
+├── README.md                  # Introduction to supervised learning
+├── notebooks/                 # Jupyter notebooks for tutorials
+│   ├── 01-Linear-Regression.ipynb
+│   ├── 02-Logistic-Regression.ipynb
+│   ├── 03-Decision-Trees.ipynb
+│   ├── 04-Random-Forests.ipynb
+│   ├── 05-Support-Vector-Machines.ipynb
+│   ├── 06-k-Nearest-Neighbors.ipynb
+│   ├── 07-Naive-Bayes.ipynb
+│   └── 08-Gradient-Boosting.ipynb
+├── scripts/                   # Python scripts for algorithms
+│   ├── linear_regression.py
+│   ├── logistic_regression.py
+│   ├── decision_tree.py
+│   ├── random_forest.py
+│   ├── svm.py
+│   ├── knn.py
+│   ├── naive_bayes.py
+│   └── gradient_boosting.py
+├── data/                      # Datasets for tutorials
+│   ├── housing.csv            # For regression (e.g., linear regression)
+│   ├── iris.csv               # For classification (e.g., logistic regression)
+│   ├── diabetes.csv           # For classification (e.g., decision trees)
+│   └── wine.csv               # For multi-class classification (e.g., SVM)
+└── resources/                 # Additional resources
+    ├── supervised_learning_cheatsheet.pdf
+    ├── references.md          # Links to papers, blogs, and tutorials
+    └── datasets.md            # Descriptions of datasets used
