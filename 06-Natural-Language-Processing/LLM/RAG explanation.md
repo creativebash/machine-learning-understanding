@@ -1,4 +1,4 @@
-# RAG (Retrieval-Augmented Generation) - Complete Guide
+# RAG (Retrieval-Augmented Generation) - Guide
 
 ## Core Problem
 Organizations have extensive internal documents, but LLMs lack access to this specific knowledge. When customers ask questions like "How do I enroll in your premium health plan?", you need accurate, organization-specific answers, not generic responses.
