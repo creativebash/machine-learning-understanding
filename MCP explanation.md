@@ -1,4 +1,4 @@
-# MCP (Model Context Protocol) - Complete Guide
+# MCP (Model Context Protocol) - Guide
 
 ## Core Problem
 AI models are isolated - they can't directly access your databases, APIs, file systems, or tools. When you ask Claude "What's my latest sales data?" it has no way to connect to your CRM. Each integration requires custom coding and maintenance.
